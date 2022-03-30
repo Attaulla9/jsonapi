@@ -1,0 +1,56 @@
+{
+    "max_products": 15,
+    "category": {
+        "Truweight Drinks": [
+            {
+                "item_id": 100,
+                "item_name": "Instant Drink Mix (WOW Drink) (30gX5)",
+                "quantity": "0"
+            },
+            {
+                "item_id": 101,
+                "item_name": "Hibiscus Tea",
+                "quantity": "1"
+            },
+            {
+                "item_id": 102,
+                "item_name": "Noni Kokum",
+                "quantity": "0"
+            }
+        ],
+        "Truweight Snacks": [
+            {
+                "item_id": 103,
+                "item_name": "Fruit Nut trial 100g",
+                "quantity": "1"
+            },
+            {
+                "item_id": 104,
+                "item_name": "Banana Chocolate Cookies",
+                "quantity": "0"
+            },
+            {
+                "item_id": 105,
+                "item_name": "Amala drink 8g",
+                "quantity": "0"
+            }
+        ],
+        "Truweight Premium Foods": [
+            {
+                "item_id": 106,
+                "item_name": "Choco Shake 8 Pouch",
+                "quantity": "1"
+            },
+            {
+                "item_id": 107,
+                "item_name": "Tru Juice 300 ml",
+                "quantity": "0"
+            },
+            {
+                "item_id": 108,
+                "item_name": "Apple Cider Vinegar with Garcinia and Green Coffee",
+                "quantity": "0"
+            }
+        ]
+    }
+}
